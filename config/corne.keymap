@@ -157,13 +157,13 @@
             key-positions = <33 32>;
         };
 
-        para-less {
-            bindings = <&paraless>;
+        para-open {
+            bindings = <&kp LPAR>;
             key-positions = <20 19>;
         };
 
-        para-great {
-            bindings = <&paragreat>;
+        para-close {
+            bindings = <&kp RIGHT_PARENTHESIS>;
             key-positions = <20 21>;
         };
 
