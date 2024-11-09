@@ -171,6 +171,11 @@
             bindings = <&kp EXCLAMATION>;
             key-positions = <1 13>;
         };
+
+        tilde {
+            bindings = <&kp TILDE>;
+            key-positions = <29 17>;
+        };
     };
 
     //
